@@ -1,0 +1,1 @@
+# Strategy-Trading-Model
